@@ -1,23 +1,26 @@
-# Nexus Hub
-![Roblox](https://img.shields.io/badge/Roblox-Studio-00B2FF?logo=roblox)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
-![Rank System](https://img.shields.io/badge/Rank_System-4CAF50)
-![Rainbow Owner](https://img.shields.io/badge/Rainbow_Owner-FF4081)
+# Starfall RPG
 
-> **Um sistema completo de HUD, ranks com efeito rainbow, anti-cheat e GUI interativa — 100% feito em Roblox Studio.**
+![Roblox](https://img.shields.io/badge/Roblox-Studio-00B2FF)
+![Lua](https://img.shields.io/badge/Lua-RPG-2C2D72)
 
----
+**Sistema RPG completo: Levels, Skills, Inventário, Combate e DataStore.**
 
-## Recursos Avançados (Tudo Funciona)
+## 🎮 Demo
+- Toque em XPOrb → ganhe XP e suba level
+- Chat: `/give sword` → item no inventário
+- Stats aumentam automaticamente
 
-| Recurso | Status |
-|-------|--------|
-| **Rank System com Rainbow** | Owner, Sub-Owner com efeito arco-íris |
-| **GUI Interativa (WorldsGUI)** | Botões, transições, sons |
-| **Anti-Cheat Básico** | Detecta Speed, Fly, Noclip |
-| **Overhead Names** | Nome + rank acima da cabeça |
-| **Configurável** | Tudo via `Settings.lua` |
+## 📁 Estrutura
 
----
+## 🚀 Setup
+1. Cole no Roblox Studio
+2. Crie GUI básica
+3. Adicione XPOrb no Workspace
+4. Play!
 
-## Estrutura do Projeto (Roblox Studio)
+## ✨ Funcionalidades
+- ✅ Level Up + XP System
+- ✅ Stats (Força/Agi/Int)
+- ✅ Inventário dinâmico
+- ✅ DataStore Save
+- ✅ UI Tween animada
